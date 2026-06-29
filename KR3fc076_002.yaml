@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一冊致曲圖解杭州夏紫笙先生鸞翔稿本庚辰三月後學葉景葵敬題
+  hash: sha256:9e1662dfbe78e76a2679466719680399ffa35779217d29d2e467c5f87b42478e
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:150a8ca25c4ffb737112d4e805aca50ad84ad432966fdfcea485a8efdac5688b

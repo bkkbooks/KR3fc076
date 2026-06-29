@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/markers/83
+seq: 83
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc076_tls_001-p40.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup39, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR3fc076_tls_001-p40.s2}
+  - {type: line-break, offset: 11, content: '', id: KX_2_dup38, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR3fc076_tls_001-p40.s3}
+  - {type: line-break, offset: 33, content: '', id: KX_3_dup40, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3fc076_tls_001-p40.s4}
+  - {type: line-break, offset: 55, content: '', id: KX_4_dup40, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3fc076_tls_001-p40.s5}
+  - {type: line-break, offset: 77, content: '', id: KX_5_dup39, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3fc076_tls_001-p40.s6}
+  - {type: line-break, offset: 85, content: '', id: KX_6_dup37, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 99, content: '', id: KR3fc076_tls_001-p40.s7}
+  - {type: line-break, offset: 99, content: '', id: KX_7_dup37, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3fc076_tls_001-p40.s8}
+  - {type: line-break, offset: 113, content: '', id: KX_8_dup36, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 127, content: '', id: KR3fc076_tls_001-p40.s9}
+  - {type: line-break, offset: 127, content: '', id: KX_9_dup33, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3fc076_tls_001-p40.s10}
+  - {type: line-break, offset: 141, content: '', id: KX_10_dup33, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR3fc076_tls_001-p40.s12}
+  - {type: line-break, offset: 162, content: '', id: KX_12_dup32, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR3fc076_tls_001-p40.s13}
+  - {type: line-break, offset: 182, content: '', id: KX_13_dup34, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR3fc076_tls_001-p40.s14}
+  - {type: line-break, offset: 190, content: '', id: KX_14_dup33, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 198, content: '', id: KR3fc076_tls_001-p40.s15}
+  - {type: line-break, offset: 198, content: '', id: KX_15_dup32, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR3fc076_tls_001-p40.s16}
+  - {type: line-break, offset: 206, content: '', id: KX_16_dup32, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR3fc076_tls_001-p40.s17}
+  - {type: line-break, offset: 214, content: '', id: KX_17_dup31, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 222, content: '', id: KR3fc076_tls_001-p40.s18}
+  - {type: line-break, offset: 222, content: '', id: KX_18_dup28, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 230, content: '', id: KR3fc076_tls_001-p40.s19}
+  - {type: line-break, offset: 230, content: '', id: KX_19_dup28, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 238, content: '', id: KR3fc076_tls_001-p40.s20}
+  - {type: line-break, offset: 238, content: '', id: KX_20_dup27, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3fc076_tls_001-p40.s21}
+  - {type: line-break, offset: 246, content: '', id: KX_21_dup27, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:f2a2ef8df5d973af9d2d68e99e5479e1e64d333767256a0b31b6690bb8b98574

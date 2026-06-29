@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/51
+seq: 51
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:8e53ea8d31104c18a55a3f3152b170d32ab75df096a761a1548def28b77d952e

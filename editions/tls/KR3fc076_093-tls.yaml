@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/93
+seq: 93
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圓及雙綫兩式皆以拋物綫為權衡而雙綫之有兩心亦猶撱圓之有兩心不過反用其率遂覺形勢不同究之平撱單雙綫拋物綫一名單曲綫亦名單綫之四種準綫雖形有萬殊而實根於一理依雙綫準綫論之則正交雙綫之準綫亦為倍圓徑之周
+  hash: sha256:8740b1b73cd99a2abfc7322f244d8a637ac38415a99c8de8bb3ea2d57d843423
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:7e5074cc3ce39c8a0f6b7c186a63388acee000be22770df5caafcad8714e6d57

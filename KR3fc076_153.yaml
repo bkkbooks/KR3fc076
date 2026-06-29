@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/153
+seq: 153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數乘另數所得為半本數之畀必本數四倍於另數而後可猶之以四乘一而得二之畀也然則拋物線任何斜通徑但使斜通徑穿過針心必為所易心距頂之四倍矣次解雙線如圖子丑為大兌徑寅卯為小兌徑以子丑為首率寅卯為中率求得丙子為未率即為斜通徑其子午己午未午必為連比例三率即申子戍申酉申亦為連比例三率比與正通徑之比例均同蓋雙線為撱圓反式故撱圓諸斜規線頂上一線起於大兌徑右端雙線諸斜規線頂上一線起於大兌徑左端無不兩兩相反也
+  hash: sha256:2241be0b8c58f98460eb33614bdf0fc23a1f45a60dfbcc16c8e70dadf1473afc
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:3659c545970791879ff30365831fe28e5ef26c5a58a306383c0bea79ea0c6345

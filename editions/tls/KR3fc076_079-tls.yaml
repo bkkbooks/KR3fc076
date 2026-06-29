@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 準此則知本圖上惟直綫乃為正交雙綫若所截雙綫面稍斜而左右則頂角即銳其截面之大小徑即不能等也准此則知正交雙綫面惟直角圓錐上有此形其他圓錐上不能有也而雙綫之於正交雙綫猶之撱圓之於平圓矣由是而知圓錐上有七式曰點點之撱者曰綫曰平圓平圓之撱者曰撱圓曰正交雙曲綫正交雙曲綫之撱圓者曰變曲綫曰拋物綫止一式無所謂正撱而七式備具於直角圓錐是故橫截之圓面其平與撱係於雖之底靣底面平則亦平底面撱則亦撱直截之雙綫面其正交與斜交係於錐之頂角頂角正交則亦正交頂角斜交即亦斜交
+  hash: sha256:fe80b0941caebfa155f5cd32d7d05f5db082d19b039557c93dba85aeb872b5e0
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:06db4744ee8c78c7a487bc4f55929098ea220661884963ad5103a5200ac8ebae

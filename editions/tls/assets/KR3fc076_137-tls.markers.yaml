@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/markers/137
+seq: 137
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc076_tls_001-p67.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup65, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR3fc076_tls_001-p67.s2}
+  - {type: line-break, offset: 11, content: '', id: KX_2_dup63, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR3fc076_tls_001-p67.s3}
+  - {type: line-break, offset: 33, content: '', id: KX_3_dup64, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR3fc076_tls_001-p67.s4}
+  - {type: line-break, offset: 55, content: '', id: KX_4_dup64, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3fc076_tls_001-p67.s5}
+  - {type: line-break, offset: 77, content: '', id: KX_5_dup63, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR3fc076_tls_001-p67.s6}
+  - {type: line-break, offset: 80, content: '', id: KX_6_dup60, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR3fc076_tls_001-p67.s7}
+  - {type: line-break, offset: 94, content: '', id: KX_7_dup61, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR3fc076_tls_001-p67.s8}
+  - {type: line-break, offset: 108, content: '', id: KX_8_dup60, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3fc076_tls_001-p67.s9}
+  - {type: line-break, offset: 122, content: '', id: KX_9_dup57, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR3fc076_tls_001-p67.s10}
+  - {type: line-break, offset: 136, content: '', id: KX_10_dup57, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR3fc076_tls_001-p67.s12}
+  - {type: line-break, offset: 150, content: '', id: KX_12_dup55, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR3fc076_tls_001-p67.s13}
+  - {type: line-break, offset: 171, content: '', id: KX_13_dup56, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 192, content: '', id: KR3fc076_tls_001-p67.s14}
+  - {type: line-break, offset: 192, content: '', id: KX_14_dup54, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 213, content: '', id: KR3fc076_tls_001-p67.s15}
+  - {type: line-break, offset: 213, content: '', id: KX_15_dup53, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR3fc076_tls_001-p67.s16}
+  - {type: line-break, offset: 234, content: '', id: KX_16_dup54, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR3fc076_tls_001-p67.s17}
+  - {type: line-break, offset: 250, content: '', id: KX_17_dup53, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR3fc076_tls_001-p67.s18}
+  - {type: line-break, offset: 271, content: '', id: KX_18_dup51, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR3fc076_tls_001-p67.s19}
+  - {type: line-break, offset: 292, content: '', id: KX_19_dup52, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 302, content: '', id: KR3fc076_tls_001-p67.s20}
+  - {type: line-break, offset: 302, content: '', id: KX_20_dup51, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR3fc076_tls_001-p67.s21}
+  - {type: line-break, offset: 323, content: '', id: KX_21_dup49, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:02212a47a26d7c60c68db25bd7532dd697ab32920b60ee8a47b7634f8c964827

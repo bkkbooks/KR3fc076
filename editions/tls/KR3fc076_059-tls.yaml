@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/59
+seq: 59
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致曲圖解總論天為大圓天之賦物莫不以圓顧圓雖一名類乃萬族循圓一匝而曲線生焉西人以綫所由生之次數分為諸類一次式惟直綫二次式有平圓撱圓拋物綫雙曲綫四式三次式有八十種四次式有五千餘種五次以上葢不可攷矣今但就二次式四種溯其本源并附解諸乘方拋物綫形雖萬殊理實一貫諸曲綫式備具於圓錐體上故圓錐者二次曲綫之母也撱圓利用聚拋物綫利用遠雙曲綫利用散而其理皆出平圓茍會其通則制噐尚象俛仰觀察為用無窮矣今為一一解之如後
+  hash: sha256:c748e8110c88fb4d24d6b0d2a039864cf3d78be50e9c15a37fdfc28f5ac6f264
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:09424fb7b3eb16693fc8a748b73dfa4b9fa19648bcfbd0839a95e9d16110bbbb

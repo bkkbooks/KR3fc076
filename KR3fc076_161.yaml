@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/161
+seq: 161
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小半徑平方乘之一率大半徑平方除之而得四率縱線平方也雙曲線縱橫線式解曰雙線為撱圓反式撱圓例中應減者雙線倒中應加其理易明按此式兩方相加數即雙線上正矢乘大矢之數也此四率比例即後論第七條四率比例也拋物線縱橫線式第三論中已有解茲不贅以上諸例不獨正徑上縱橫線為然即兌徑上縱橫線無不皆然
+  hash: sha256:a250c51cfe4a296c43c4dddf1df57bdd176e31dd906d4d402d2058ab220372c3
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:0d79367cfd6b64b343f08ce04f6bc57dc6e41003046859ec8e034c7750e5fb1e

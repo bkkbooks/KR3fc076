@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR3fc076_tls_001-bkkxmlele1, name: p, role: open}
+  - {type: page-break, offset: 0, content: '', id: KR3fc076_tls_1a}
+  back: []
+hash: sha256:840d65d9de0124dc6c01e364c2072d78367b28b9e88dde5089fd0649196887e6

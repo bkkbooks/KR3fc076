@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數數三除之為借徑凡匝數為偶數者以匝數減一為副匝數又減一折半為初底初底減副匝數為次底初底加一乘初底半之於上又次底加一乘次底半之以加上位為負數另置匝數半之為借匝數借匝數加一乘借匝數為正數正數內減負數三除之為借徑置借經三乘之為第一數四分第一數之一二除之三除之為第二數四分第二數之一九乘之四除之五除之為第三數四分第三數之一二十五乘之六除之七除之為第四數順是以下皆如是求至單位下止乃相并為所求任幾匝面積
+  hash: sha256:be7e85ebb0fc49952f3cba35ae3fafa4bfe7776eeb5d303e26e961375554180c
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:b77118468c4630932c46303c9b0eaea9c34373eec902c8b77da0ba46c061b53f

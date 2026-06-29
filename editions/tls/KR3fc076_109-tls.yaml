@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/109
+seq: 109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若正交雙曲綫心距頂與通徑之比例若方斜半較之與方邊
+  hash: sha256:dc04386bed32d56021390f1d9c65c65f0b8586d72e942dda252708a8d8d8dab1
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:e661ca4fad30125a44294dc37000b79cfad59122c255762df4a8957f1c76e3d8

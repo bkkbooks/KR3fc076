@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/markers/65
+seq: 65
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc076_tls_001-p31.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup30, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3fc076_tls_001-p31.s2}
+  - {type: line-break, offset: 21, content: '', id: KX_2_dup29, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3fc076_tls_001-p31.s3}
+  - {type: line-break, offset: 42, content: '', id: KX_3_dup31, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3fc076_tls_001-p31.s4}
+  - {type: line-break, offset: 57, content: '', id: KX_4_dup31, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR3fc076_tls_001-p31.s5}
+  - {type: line-break, offset: 72, content: '', id: KX_5_dup30, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR3fc076_tls_001-p31.s6}
+  - {type: line-break, offset: 87, content: '', id: KX_6_dup28, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR3fc076_tls_001-p31.s7}
+  - {type: line-break, offset: 102, content: '', id: KX_7_dup28, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR3fc076_tls_001-p31.s8}
+  - {type: line-break, offset: 117, content: '', id: KX_8_dup27, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 132, content: '', id: KR3fc076_tls_001-p31.s9}
+  - {type: line-break, offset: 132, content: '', id: KX_9_dup24, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3fc076_tls_001-p31.s10}
+  - {type: line-break, offset: 153, content: '', id: KX_10_dup24, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3fc076_tls_001-p31.s12}
+  - {type: line-break, offset: 174, content: '', id: KX_12_dup25, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 189, content: '', id: KR3fc076_tls_001-p31.s13}
+  - {type: line-break, offset: 189, content: '', id: KX_13_dup25, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR3fc076_tls_001-p31.s14}
+  - {type: line-break, offset: 210, content: '', id: KX_14_dup24, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 222, content: '', id: KR3fc076_tls_001-p31.s15}
+  - {type: line-break, offset: 222, content: '', id: KX_15_dup24, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR3fc076_tls_001-p31.s16}
+  - {type: line-break, offset: 234, content: '', id: KX_16_dup24, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR3fc076_tls_001-p31.s17}
+  - {type: line-break, offset: 246, content: '', id: KX_17_dup23, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 258, content: '', id: KR3fc076_tls_001-p31.s18}
+  - {type: line-break, offset: 258, content: '', id: KX_18_dup21, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR3fc076_tls_001-p31.s19}
+  - {type: line-break, offset: 270, content: '', id: KX_19_dup21, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR3fc076_tls_001-p31.s20}
+  - {type: line-break, offset: 282, content: '', id: KX_20_dup20, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR3fc076_tls_001-p31.s21}
+  - {type: line-break, offset: 303, content: '', id: KX_21_dup20, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:fbbdc4d54bee5bf504840dce5ddb901bb6fea62fa65a707cc4ad01e50f106ffb

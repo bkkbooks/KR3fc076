@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用為小正徑斜縱橫綫易為正縱橫綫既與算法無乖則此條之例亦可準本論第七條之例矣
+  hash: sha256:58cf9a6f0753b27c96f850bc3b99b4d62777db1ef57f5da5821f570a8d3ab6ab
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:4d6832968b9951174400cdb69ac39ce7aa5d7b97647b0a60f1bb911bc59bfe0b

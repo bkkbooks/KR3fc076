@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 總論論诸曲线始於一點終於一點苐一論诸曲线式之心苐二論诸曲綫式皆有準线苐三
+  hash: sha256:6a350198838780ad18362676f86cd835ade91540cc03e2c8f2d7d93039cd669f
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:18ec6a1dce6932e0e2eb23a9d956b869cf4ba094c25b8b27dc46b06d47e857ee

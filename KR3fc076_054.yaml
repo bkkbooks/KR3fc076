@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc076/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論諸曲綫式皆有規綫苐四論諸曲綫式之橫直二徑苐五論諸曲綫式之兑徑苐六
+  hash: sha256:b7fac61e713582a587f0053e328cc3791e1bd8a6a888dd1ada7d456cf237aba4
+metadata:
+  title: 致曲術/致曲圖解
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc076.xml
+hash: sha256:1ff3b0abbd983713d7cce6abb8fa450cab5b49f52cc05fd0b2beae610bfae864
