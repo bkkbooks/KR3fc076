@@ -5,8 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc076_tls_001-p20.s1.1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup20, _xml_error: duplicate-id, _xml_original_id: KX_1}
-  - {type: substitution, offset: 4, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
-  - {type: substitution, offset: 7, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
   - {type: 'tls:seg-start', offset: 11, content: '', id: KR3fc076_tls_001-p20.s1.2, seg_type: comm, member_ids: [KR3fc076_tls_001-p20.s1.2]}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3fc076_tls_001-p20.s1.2}
   - {type: 'tls:seg-end', offset: 13, content: '', id: KR3fc076_tls_001-p20.s1.2_end, seg_type: comm}
@@ -24,7 +22,5 @@ markers:
   - {type: line-break, offset: 118, content: '', id: KX_7_dup17, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 139, content: '', id: KR3fc076_tls_001-p20.s8}
   - {type: line-break, offset: 139, content: '', id: KX_8_dup17, _xml_error: duplicate-id, _xml_original_id: KX_8}
-  - {type: substitution, offset: 152, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
-  - {type: substitution, offset: 154, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
   back: []
-hash: sha256:c6c163fd03017fdf8845c731dcb6a464661aa7a558fe361a1617ab4cb0f1120e
+hash: sha256:1cff3ebca16d2070bcfc39b3c0c4e25fe271e791aac6f25712efb5e80fc4a750

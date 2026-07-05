@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 論諸曲綫式之兩心差苐七論諸曲綫式之法綫切綫苐八論諸曲綫式之斜規綫第九論諸曲綫之縱橫綫式第十論諸曲綫之爲比例第十一論兒綫第十二
-  hash: sha256:5fa9156ac220766fd9a15afa8851ae280416aedfaadd1d8c8bae30fd0387a2e1
+  text: 論诸曲线式之两心差苐七論诸曲线式之法线切线苐八論诸曲线式之斜規线第九論诸曲线之纵横线式第十論诸曲线之为比例第十一論儿线第十二
+  hash: sha256:551a7935911824762cc143a01b6a16de6147cb15989389306fc4558aa5ab603d
 metadata:
   title: 致曲術/致曲圖解
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc076.xml
-hash: sha256:ca8116c9b226e14b27b25a45185296c573bb08d9d35f143c2f49da28db3843ae
+hash: sha256:23d3a35203be5bbce479542d480ef06f2950c8984cf66089b002753170813bee

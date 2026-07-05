@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 若正交雙曲線心距頂與通徑之比例若方斜半較之與方邊
-  hash: sha256:dce69cd660f247e4b51d5e4fb6870d5c2bca69158042fa73619e7c2fbc5ba5f8
+  text: 若正交雙曲綫心距頂與通徑之比例若方斜半較之與方邊
+  hash: sha256:dc04386bed32d56021390f1d9c65c65f0b8586d72e942dda252708a8d8d8dab1
 metadata:
   title: 致曲術/致曲圖解
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc076.xml
-hash: sha256:0fe721415dda10202c5a4f5e2e7342fd8306d6e7e95f0f1ae7ab5e2a44c3c50e
+hash: sha256:e661ca4fad30125a44294dc37000b79cfad59122c255762df4a8957f1c76e3d8

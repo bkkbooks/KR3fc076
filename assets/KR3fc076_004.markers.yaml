@@ -11,20 +11,15 @@ markers:
   - {type: line-break, offset: 5, content: '', id: KX_3_dup2, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 7, content: '', id: KR3fc076_tls_001-p2.s4}
   - {type: line-break, offset: 7, content: '', id: KX_4_dup2, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 9, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
   - {type: 'tls:seg', offset: 10, content: '', id: KR3fc076_tls_001-p2.s5}
   - {type: line-break, offset: 10, content: '', id: KX_5_dup2, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: punctuation, offset: 10, content: □, id: KR3fc076_tls_004-bkkpn1}
-  - {type: substitution, offset: 11, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fc076_tls_001-p2.s6}
   - {type: line-break, offset: 12, content: '', id: KX_6}
-  - {type: substitution, offset: 13, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3fc076_tls_001-p2.s7}
   - {type: line-break, offset: 14, content: '', id: KX_7}
-  - {type: substitution, offset: 17, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
   - {type: 'tls:seg', offset: 18, content: '', id: KR3fc076_tls_001-p2.s8}
   - {type: line-break, offset: 18, content: '', id: KX_8}
-  - {type: substitution, offset: 19, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3290}}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fc076_tls_001-p2.s12}
   - {type: line-break, offset: 20, content: '', id: KX_12}
   - {type: 'tls:seg', offset: 41, content: '', id: KR3fc076_tls_001-p2.s13}
@@ -49,4 +44,4 @@ markers:
   - {type: 'tls:seg', offset: 187, content: '', id: KR3fc076_tls_001-p2.s21}
   - {type: line-break, offset: 187, content: '', id: KX_21}
   back: []
-hash: sha256:8d75c819b226b4d6d46142e495174c1d3de4e31906ef85bcf0aeb193240df304
+hash: sha256:ae2cc8ba2b017a7ee0c9fd51e941f0c713ae296ca5b89a4fe5f0803f6179e7b1
