@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 午未申酉諸綫皆為午未兌徑所平分也
-  hash: sha256:1b1d5e162b70b3083535193f8efb8bfd442237f20f7d67202fa185de37d8fa63
+  text: 午未申酉諸線皆為午未兌徑所平分也
+  hash: sha256:1f7610c6b6b8a7b2760909dd9ed3509113fac5bce58bf1bd3b309c55eebcab70
 metadata:
   title: 致曲術/致曲圖解
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc076.xml
-hash: sha256:c1c8be86e8713d18ecf56647509067c131f4a74cdde9498f173db0d73b71cd19
+hash: sha256:4428e9a5ee8c6bfdc0a9130015802e1ab202deb5a0d20779989b4398a6f00dc9

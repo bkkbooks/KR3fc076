@@ -5,6 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc076_tls_001-p1.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1}
+  - {type: substitution, offset: 2, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: 'tls:seg', offset: 3, content: '', id: KR3fc076_tls_001-p1.s3}
   - {type: line-break, offset: 3, content: '', id: KX_3}
   - {type: 'tls:seg', offset: 7, content: '', id: KR3fc076_tls_001-p1.s4}
@@ -12,4 +13,4 @@ markers:
   - {type: 'tls:seg', offset: 18, content: '', id: KR3fc076_tls_001-p1.s5}
   - {type: line-break, offset: 18, content: '', id: KX_5}
   back: []
-hash: sha256:e2302c15213efdd0cb74ad85dde78009f222343dc82d2ea0ea50d0d07e74bf1d
+hash: sha256:de05d0800b7528bbf7980205160f28600ab624be7b1fb0e0f3a2b2eca543b86c

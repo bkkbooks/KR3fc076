@@ -11,5 +11,7 @@ markers:
   - {type: line-break, offset: 42, content: '', id: KX_3_dup14, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 63, content: '', id: KR3fc076_tls_001-p14.s4}
   - {type: line-break, offset: 63, content: '', id: KX_4_dup14, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 73, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19573}}
+  - {type: substitution, offset: 74, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   back: []
-hash: sha256:b1bc57f43cf5e6aebf4aff75cba490d61111029c381fe71ab0c07b69a4cb65e2
+hash: sha256:2246ae58a996612158def7f0b1e371c5ee42d41a3cb5ab223a474b9d3c452dd3

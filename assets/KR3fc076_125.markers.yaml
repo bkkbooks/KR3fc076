@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 65, content: '', id: KX_5_dup58, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 86, content: '', id: KR3fc076_tls_001-p61.s6}
   - {type: line-break, offset: 86, content: '', id: KX_6_dup55, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 86, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19573}}
   - {type: 'tls:seg', offset: 107, content: '', id: KR3fc076_tls_001-p61.s7}
   - {type: line-break, offset: 107, content: '', id: KX_7_dup56, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 119, content: '', id: KR3fc076_tls_001-p61.s8}
@@ -34,6 +35,7 @@ markers:
   - {type: 'tls:seg', offset: 196, content: '', id: KR3fc076_tls_001-p61.s13.3}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fc076_tls_001-p61.s14}
   - {type: line-break, offset: 200, content: '', id: KX_14_dup49, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 208, original: 綫, replacement: 線, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19573}}
   - {type: 'tls:seg', offset: 221, content: '', id: KR3fc076_tls_001-p61.s15}
   - {type: line-break, offset: 221, content: '', id: KX_15_dup48, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 242, content: '', id: KR3fc076_tls_001-p61.s16}
@@ -59,4 +61,4 @@ markers:
   - {type: 'tls:seg', offset: 379, content: '', id: KR3fc076_tls_001-p61.s21}
   - {type: line-break, offset: 379, content: '', id: KX_21_dup44, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:303cf8fd44b7b058ca291f28e5170848405762d98f14fc76bf979866f29d3440
+hash: sha256:c182009af679c5517f4a195b9b67c1391db098f46a62bbc6d0aefff8aff8d530

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 論诸曲线式皆有规线苐四論诸曲线式之横直二徑苐五論诸曲线式之兑径苐六
-  hash: sha256:73710439ab024a12fcfd288644a3dc3c829be3963282c58e584ad94e13b31168
+  text: 論諸曲線式皆有規線苐四論諸曲線式之橫直二徑苐五論諸曲線式之兑徑苐六
+  hash: sha256:abb972d31a975a6f799b6a56df285b25c0447708ac5661843d0e3fd65dfe4cff
 metadata:
   title: 致曲術/致曲圖解
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc076.xml
-hash: sha256:7cd82a15bf2db37f0dbc54122c7799be38da56dff27d6ef1707b9efd3cde4c91
+hash: sha256:37a43b4e67b8ac9539201fa3f6ce2e44391f883b0eb17c9ce444b3261fed85e0
